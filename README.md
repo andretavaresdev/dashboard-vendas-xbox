@@ -1,31 +1,41 @@
-# 🎮 Dashboard de Vendas Xbox
+# 📊 Dashboard de Vendas Xbox (Excel)
 
-Este projeto consiste em um **dashboard interativo de vendas** focado nas assinaturas **EA Play Season Pass** e **Minecraft Season Pass** para Xbox. Ele foi desenvolvido com o objetivo de transformar dados brutos em **informações visuais claras e úteis**, facilitando a análise de desempenho de vendas e auxiliando na tomada de decisões baseadas em dados.
+Este repositório contém um **dashboard interativo de vendas** criado no **Microsoft Excel**, com foco nas assinaturas **EA Play Season Pass** e **Minecraft Season Pass** para a plataforma Xbox.
 
-## 🧠 Objetivo
+O principal objetivo deste projeto é **organizar e visualizar dados de forma clara e eficiente**, permitindo uma análise prática do desempenho de vendas e auxiliando na tomada de decisões com base em dados.
 
-Criar um painel que organiza e apresenta os dados de vendas de maneira **visual, interativa e intuitiva**, permitindo aos usuários:
+---
 
-- Monitorar o volume de vendas das assinaturas.
-- Analisar tendências de crescimento ou queda nas vendas.
-- Comparar o desempenho entre os diferentes produtos.
-- Identificar períodos de maior ou menor atividade.
+## 🎯 Objetivo
 
-## 📊 Dados Utilizados
+Transformar dados brutos em informações visuais e intuitivas utilizando os recursos do Excel, como:
 
-Os dados utilizados neste projeto representam informações fictícias de vendas das seguintes assinaturas:
+- Tabelas dinâmicas
+- Gráficos interativos
+- Segmentações de dados (slicers)
+- Filtros automáticos
 
-- **EA Play Season Pass**
-- **Minecraft Season Pass**
+---
 
-Cada registro inclui:
-- Nome do produto
+## 🗂️ Dados Utilizados
+
+O arquivo contém dados fictícios sobre:
+
+- Nome do produto (EA Play ou Minecraft Season Pass)
 - Data da venda
-- Quantidade de unidades vendidas
+- Quantidade de assinaturas vendidas
 - Receita gerada
 
-> 🔒 *Os dados foram tratados para uso exclusivamente educacional, sem vínculo com informações comerciais reais da Microsoft ou Xbox.*
+Estes dados foram organizados para simular um cenário real de vendas digitais de assinaturas para Xbox.
 
-## 🛠️ Tecnologias Utilizadas
+---
 
-- Excel.
+## 🧰 Ferramentas Utilizadas
+
+- **Microsoft Excel**
+  - Tabelas e tabelas dinâmicas
+  - Gráficos de linhas.
+  - Segmentações de dados
+  - Layouts personalizados
+
+---
