@@ -34,7 +34,7 @@ Estes dados foram organizados para simular um cenário real de vendas digitais d
 
 - **Microsoft Excel**
   - Tabelas e tabelas dinâmicas
-  - Gráficos de linhas.
+  - Gráficos de linhas
   - Segmentações de dados
   - Layouts personalizados
 
